@@ -16,11 +16,5 @@ Please try to read the diagram from bottom to top for better flow coherence.
 
 <img src="https://github.com/MohammadFneish7/Keras_LSTM_Diagram/blob/master/LSTM_keras_model.bmp">
 
-# License
-This project is licensed under [GNU General Public License][1].
- 
-[1]: https://github.com/MohammadFneish7/Keras_LSTM_Diagram/blob/master/LICENSE
-[2]: https://github.com/MohammadFneish7/Keras_LSTM_Diagram/blob/master/LSTM_keras_model.bmp
-[3]: https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
  
  
